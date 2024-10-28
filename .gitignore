@@ -1,3 +1,5 @@
 # Java
 .gradle
 *.class
+bin
+build
